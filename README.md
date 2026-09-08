@@ -4,7 +4,7 @@
 
 I design and build **modern web applications, e-commerce platforms, and business systems** that connect great customer experiences with the operational systems behind them.
 
-My work focuses on turning real business requirements into **practical, scalable, and maintainable software** — from customer-facing storefronts and checkout experiences to APIs, payments, inventory, ERP integrations, and internal workflows.
+My work focuses on turning real business requirements into **practical, scalable, and maintainable software** — from customer-facing storefronts and checkout experiences to APIs, payments, inventory management, and business automation.
 
 <p align="center">
   <a href="https://ashutoshneupane.com.np">
@@ -268,17 +268,17 @@ Examples include:
                        ▼
                 REST API Layer
                        │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-      Products       Orders      Customers
-          │            │            │
-          └────────────┼────────────┘
+              ┌────────┼────────────┐
+              ▼        ▼            ▼
+          Products   Orders      Customers
+              │        │            │
+              └────────┼────────────┘
                        ▼
                 Business Backend
                        │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-      Inventory      ERP         Operations
+              ┌────────┼────────────┐
+              ▼        ▼            ▼
+          Inventory   ERP         Operations
 ```
 
 This is where my experience with **Frappe / ERPNext, APIs, e-commerce and modern frontend development** becomes particularly useful.
@@ -424,13 +424,11 @@ It's about understanding **why the software exists and how people actually use i
 
 ---
 
-
-
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Neupane&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Neupane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     width="48%"
   />
   <img
@@ -438,6 +436,51 @@ It's about understanding **why the software exists and how people actually use i
     width="48%"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ashutosh-Neupane&theme=tokyonight&hide_border=true"
+    width="96%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ashutosh-Neupane&theme=tokyonight&no-frame=true&column=4"
+    width="96%"
+  />
+</p>
+
+---
+
+## 🎯 Project Highlights
+
+Based on my analysis of your repositories, here are your most impactful projects:
+
+### 🏆 Full-Stack E-Commerce Projects
+- **Aurora Frontend** - TypeScript e-commerce frontend
+- **Hitech** - E-commerce platform with Next.js
+- **ecommerce** - Full-stack e-commerce solution
+- **Payload ECommerce Template** - Frappe ERPNext port for e-commerce
+
+### 🏢 Business Management Systems
+- **School Management System** - Frappe-based school management
+- **School SaaS** - Python-based school SaaS platform
+- **Responsive POS** - Point of Sale system
+- **SkillSwap** - P2P skill exchange platform
+
+### 🛠️ Integration & Operations
+- **SaathiMart** - Multi-vendor marketplace
+- **SaathiMart Vendor** - Vendor management system
+- **Sentinel OSNIT Intel** - Intelligence platform
+
+### 💡 Learning & Practice Projects
+- Book Recommendation System
+- Chat Application
+- Classroom Scheduling System
+- Weather App
+- Todo App
+- Snake Game
 
 ---
 
