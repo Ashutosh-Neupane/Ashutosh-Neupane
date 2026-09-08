@@ -424,11 +424,19 @@ It's about understanding **why the software exists and how people actually use i
 
 ---
 
-# 📊 GitHub Statistics
+
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Neupane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Neupane&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Neupane&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Neupane&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 ---
