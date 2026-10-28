@@ -52,11 +52,18 @@ Banks file suspicious transaction reports and upload transactions. Detection rul
 
 <a href="https://github.com/Ashutosh-Neupane/nepal-case-management"><img src="https://raw.githubusercontent.com/Ashutosh-Neupane/nepal-case-management/main/docs/screenshots/02-dashboard.png" alt="Nepal Case Management: supervisor dashboard" width="100%" /></a>
 
-### ☕ Crema: a modern desk for the Frappe framework
+### ☕ [Crema](https://github.com/Ashutosh-Neupane/crema-desk): a modern desk for the Frappe framework
 
-A Next.js replacement for Frappe Desk that runs against any Frappe v16 site without per-app code. It covers lists, forms, reports, workflows, workspaces, print views, calendar and Gantt views, file manager, inbox, and the real Frappe client-script runtime, so ERPNext's own form scripts keep working. Every feature is checked against Desk with end-to-end tests. *Repository going public soon.*
+A Next.js replacement for Frappe Desk that runs against any Frappe v16 site, ERPNext included, with no per-app code. It reads the site's metadata and runs the site's own JavaScript, so ERPNext's form scripts, reports and workflows keep working.
+
+- Forms, child tables, lists, Kanban, calendar, Gantt, tree and report views, print and PDF, workspaces
+- The real Frappe client-script runtime (`frappe`, `frm`, dialogs, real jQuery for scripts that write into the page)
+- Field-level permissions, workflows, impersonation, and server tracebacks for System Managers
+- 52 end-to-end suites that check each feature against a live Frappe v16 + ERPNext site
 
 `Next.js 16` · `React 19` · `TypeScript` · `Tailwind 4` · `Frappe v16` · `ERPNext` · `Playwright`
+
+<a href="https://github.com/Ashutosh-Neupane/crema-desk"><img src="https://raw.githubusercontent.com/Ashutosh-Neupane/crema-desk/main/docs/screenshots/form.png" alt="Crema: Sales Order form" width="100%" /></a>
 
 ### More work
 
