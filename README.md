@@ -16,7 +16,7 @@
 
 ## About me
 
-- 💼 **Software Developer, React Department** at Dots and Dashes Technology Services (June 2025 – present). I build Next.js frontends and the Frappe backends behind them: DocTypes, REST APIs, authentication, e-commerce and inventory workflows, for clients such as Sathi Mart and Bhugharbha.
+- 💼 **Software Developer, React Department** at Dots and Dashes Technology Services (June 2025 – present). I build Next.js frontends and the Frappe backends behind them: DocTypes, REST APIs, authentication, and e-commerce and inventory workflows for client businesses.
 - 🎓 **B.Sc. CSIT**, Amrit Science Campus.
 - 🇳🇵 I like building for Nepal's realities: Bikram Sambat dates, Nepali language, lakh and crore, wards and Palikas, local SMS and payment providers.
 - 🎯 Right now I'm focused on **public-sector software for Nepal** and a **modern frontend for the Frappe framework**.
@@ -62,7 +62,6 @@ A Next.js replacement for Frappe Desk that runs against any Frappe v16 site with
 
 | Project | What it is | Stack |
 |---|---|---|
-| [SaathiMart](https://github.com/Ashutosh-Neupane/saathimart) + [Vendor](https://github.com/Ashutosh-Neupane/saathimart-vendor) | Multi-vendor quick-commerce marketplace: a central Frappe hub for catalogue, cart, orders and payments, kept in sync with each vendor's own ERPNext site | Frappe · ERPNext · Python |
 | [Sudha POS](https://github.com/Ashutosh-Neupane/responsive-pos) | Point of sale for Nepali shops: bilingual, role-based, with inventory | Next.js · TypeScript · Tailwind |
 | [Sentinel OSINT](https://github.com/Ashutosh-Neupane/sentinel-osnit-intel) | OSINT console: server-side search adapters, entity resolution and risk scoring | React · Express · SQLite |
 | [School Management](https://github.com/Ashutosh-Neupane/schoolManagementSystemusingfrappe) | School administration built as a Frappe app | Frappe · Python |
